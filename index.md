@@ -1,10 +1,13 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
 
 ## Welcome to this sample portfolio!
 
+Please see my pages below:
+
+**Enjoy!**
 
 #### Here are some example pages:
 
